@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Pablo NUEVO!",
+      "email": "correo@correo.com",
+      "telefono": "12345678",
+      "empresa": "Code Tech M",
+      "id": "26"
+    },
+    {
+      "nombre": "Manu Guzman",
+      "email": "luisvg18@gmail.com",
+      "telefono": "5586687559",
+      "empresa": "VASS",
+      "id": "1"
+    },
+    {
+      "id": "83e9",
+      "nombre": "Luis",
+      "email": "luisvg18@gmail.com",
+      "telefono": "5586687559",
+      "empresa": "VASS"
+    }
+  ]
+}
