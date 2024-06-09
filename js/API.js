@@ -17,7 +17,7 @@ export const nuevoCliente = async cliente => {
     }
 }
 
-//Obtener todos los clientess
+//Obtener todos los clientes
 export const obtenerclientes = async () => {
     try {
         const resultado = await fetch(url);
